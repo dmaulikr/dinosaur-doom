@@ -13,4 +13,10 @@ Built with:
 * Objective-C
 
 Design & ideation: Paulina
-Logic: George
+<br/> Logic: George
+
+![homescreen](/homescreen.png)
+
+![gameplay](/gameplay.png)
+
+![gameover](/gameover.png)
